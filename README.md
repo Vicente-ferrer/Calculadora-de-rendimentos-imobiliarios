@@ -6,8 +6,7 @@ Este é um aplicativo de simulação de investimentos em fundos imobiliários, d
 
 - Simulação do crescimento de cotas e rendimentos ao longo de um período em meses definido pelo usuário.
 - Cálculo do efeito bola de neve (reinvestimento de rendimentos).
-- Interface amigável e intuitiva.
-
+- Interface amigável e intuitiva. 
 ## Instalação
 
 Para instalar e rodar o aplicativo localmente:
@@ -27,6 +26,10 @@ Para instalar e rodar o aplicativo localmente:
   ```bash
   npx expo start
   ```
+
+
+5. Ou veja a execução através do expo snack
+6. https://snack.expo.dev/@vicente-ferreira/fillcalculator
 ## Autore
 
 <div style="background-color: #181818; display: flex; align-items: center; padding: 20px; border-radius: 10px;">

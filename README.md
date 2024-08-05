@@ -30,7 +30,7 @@ Para instalar e rodar o aplicativo localmente:
 
 5. Ou veja a execução através do expo snack
 6. https://snack.expo.dev/@vicente-ferreira/fillcalculator
-## Autore
+## Autor
 
 <div style="background-color: #181818; display: flex; align-items: center; padding: 20px; border-radius: 10px;">
   <img src="https://avatars.githubusercontent.com/u/61233984?v=4" alt="Foto do Autor" width="100" style="border-radius: 50%; margin-right: 20px;" />
